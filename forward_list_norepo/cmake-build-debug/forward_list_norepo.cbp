@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="forward_list_norepo"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="forward_list_norepo">
+				<Option output="/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/cmake-build-debug/forward_list_norepo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/cmake-build-debug/Makefile&quot;  VERBOSE=1 forward_list_norepo"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="forward_list_norepo/fast">
+				<Option output="/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/cmake-build-debug/forward_list_norepo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/cmake-build-debug/Makefile&quot;  VERBOSE=1 forward_list_norepo/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/main.cpp">
+			<Option target="forward_list_norepo"/>
+		</Unit>
+		<Unit filename="/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

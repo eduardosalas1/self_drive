@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/List.h
+iostream
+-
+ostream
+-
+node.h
+/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/node.h
+ctime
+-
+
+/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/main.cpp
+iostream
+-
+List.h
+/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/List.h
+vector
+-
+
+/home/edublo/Desktop/algoritmos_repos/forward_list_norepo/node.h
+iostream
+-
+

@@ -1,0 +1,3 @@
+/home/edublo/Desktop/algoritmos_repos/funcpointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/edublo/Desktop/algoritmos_repos/funcpointers/cmake-build-debug/CMakeFiles/funcpointers.dir
+/home/edublo/Desktop/algoritmos_repos/funcpointers/cmake-build-debug/CMakeFiles/edit_cache.dir

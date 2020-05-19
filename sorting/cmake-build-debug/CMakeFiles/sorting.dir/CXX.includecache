@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/edublo/Desktop/sorts/sorting/main.cpp
+iostream
+-
+vector
+-
+sorts.cpp
+/home/edublo/Desktop/sorts/sorting/sorts.cpp
+
+/home/edublo/Desktop/sorts/sorting/sorts.cpp
+sorts.h
+/home/edublo/Desktop/sorts/sorting/sorts.h
+
+/home/edublo/Desktop/sorts/sorting/sorts.h
+iostream
+-
+vector
+-
+
